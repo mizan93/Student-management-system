@@ -35,7 +35,7 @@ class DbFunction{
 		}
 		else{
 			
-			header('location:add-course.php');
+			header('location:view.php');
 		}
 	}
 	
